@@ -1,0 +1,6 @@
+name: DamageListener
+version: 0.0.1-dev
+main: com.jstnf.damagelistener.DLPlugin
+author: jstnf
+description: Listens for any entity damage and outputs it into chat.
+api-version: 1.13
